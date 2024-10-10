@@ -4,6 +4,7 @@
 ### Sobre mi
 - Tengo 30 años y soy de Neuquen, Argentina.
 - Egresado de Henry con dos proyectos terminados, un proyecto individual orientado a Videojuegos y un PF orientado a comercializar actividades deportivas en la playa.
+- Pasantia de 1 mes y medio en la consultora MHL con un proyecto web terminado
 - Me considero una persona responsable que busca aprender y mejorar cada dia mis practicas.
 - Actualmente mejorando mis practicas y desarrollando proyectos individuales.
 
